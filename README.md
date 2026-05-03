@@ -30,7 +30,7 @@
 
 <div align="center">
   
-  ## 🕵️‍♂️ `> ABOUT ME_`
+  ## 🕵️‍♂️ `> ABOUT ME`
 
   ```
   ╔════════════════════════════════════════════════════════════════╗
@@ -55,7 +55,7 @@
 
 <div align="center">
 
-  ## 🌐 `> CONNECT_WITH_ME_`
+  ## 🌐 `> CONNECT_WITH_ME`
 
   <br>
 
@@ -83,13 +83,13 @@
 
 <div align="center">
 
-  ## ⚡ `> TECH_ARSENAL_`
+  ## ⚡ `> TECH_ARSENAL`
 
   <br>
 
-  ### 💻 **Programming Languages**
+  ### 💻 **Programming Languages And Scripts**
 
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,html,css,js,mysql,solidity&perline=9" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,html,css,js,mysql,solidity,md&perline=10" />
 
   <br><br>
 
@@ -128,7 +128,7 @@
 
 <div align="center">
 
-  ## 🔓 `> HACKING_TOOLS_`
+  ## 🔓 `> HACKING_TOOLS`
 
   <br>
 
@@ -154,7 +154,7 @@
 
 <div align="center">
 
-  ## 💀 `> CYBER_ATTACKS_I_KNOW_`
+  ## 💀 `> CYBER_ATTACKS_I_KNOW`
 
   <br>
 
@@ -183,7 +183,7 @@
 
 <div align="center">
 
-  ## 📊 `> GITHUB_INTELLIGENCE_DASHBOARD_`
+  ## 📊 `> GITHUB_INTELLIGENCE_DASHBOARD`
 
   <br>
 
@@ -201,7 +201,7 @@
 
 <div align="center">
 
-  ## 📈 `> ACTIVITY_MONITOR_`
+  ## 📈 `> ACTIVITY_MONITOR`
 
   <br>
 
@@ -213,7 +213,7 @@
 
 <div align="center">
 
-  ## 🐍 `> CONTRIBUTION_SNAKE_`
+  ## 🐍 `> CONTRIBUTION_SNAKE`
 
   <br>
 
@@ -225,7 +225,7 @@
 
 <div align="center">
 
-  ## 📌 `> PINNED_QUOTES_`
+  ## 📌 `> PINNED_QUOTES`
 
   <br>
 
@@ -257,7 +257,7 @@
 
 <div align="center">
 
-  ### 💀 `> EOF_`
+  ### 💀 `> EOF`
 
   <br>
 
