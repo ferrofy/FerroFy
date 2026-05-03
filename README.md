@@ -89,7 +89,7 @@
 
   ### 💻 **Programming Languages**
 
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,html,css,js&perline=7" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,html,css,js,mysql,solidity&perline=9" />
 
   <br><br>
 
@@ -98,13 +98,23 @@
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Parrot_OS-15C3D6?style=for-the-badge&logo=parrot-security&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tails_OS-56347C?style=for-the-badge&logo=tails&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qubes_OS-3874D8?style=for-the-badge&logo=qubesos&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry_Pi_OS-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
 
   <br><br>
 
   ### 🛠️ **Tools & Environments**
 
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,linux,kali&perline=6" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,linux,kali,arduino,raspberrypi&perline=8" />
+
+  <br><br>
+
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NodeMCU-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Electronics-2A2A2A?style=for-the-badge&logo=circuitverse&logoColor=00FF41"/>
 
   <br><br>
 
