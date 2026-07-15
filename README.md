@@ -95,6 +95,7 @@
 
   ### 🖥️ **Operating Systems**
 
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Parrot_OS-15C3D6?style=for-the-badge&logo=parrot-security&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
