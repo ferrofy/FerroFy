@@ -9,10 +9,6 @@
   <br>
 
   <img src="https://komarev.com/ghpvc/?username=FerroFy&style=for-the-badge&color=00FF41&label=👁️+PROFILE+VIEWS"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/FerroFy?label=🕵️+FOLLOWERS&style=for-the-badge&color=00FF41&labelColor=000000"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/FerroFy?label=⭐+TOTAL+STARS&style=for-the-badge&color=FFD700&labelColor=000000"/>
 
 </div>
 
@@ -171,20 +167,6 @@
   <img src="https://img.shields.io/badge/📡_Packet_Sniffing-Beginner-4B0082?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🔐_Password_Cracking-Beginner-B8860B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🕸️_Web_Scraping-Beginner-2E8B57?style=for-the-badge"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-  ## 📊 `> GITHUB_INTELLIGENCE_DASHBOARD`
-
-  <br>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=FerroFy&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" height="180"/>
-  &nbsp;&nbsp;
-
 
 </div>
 
