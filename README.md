@@ -18,14 +18,6 @@
 
 <br>
 
-<div align="center">
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=FerroFy&theme=darkhub&margin-w=10&margin-h=10&no-frame=true&column=7" alt="Trophies" />
-  </a>
-
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
@@ -89,7 +81,9 @@
 
   ### 💻 **Programming Languages And Scripts**
 
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,html,css,js,mysql,solidity,md&perline=10" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,html,css,js,mysql,solidity,md&perline=10"/>
+
+  <img src="https://cdn.simpleicons.org/mermaid" width="48" height="48" alt="Mermaid" />
 
   <br><br>
 
@@ -190,11 +184,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=FerroFy&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" height="180"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FerroFy&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6600&currStreakLabel=00FF41" height="180"/>
 
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerroFy&layout=donut-vertical&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9&langs_count=8" height="300"/>
 
 </div>
 
